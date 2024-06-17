@@ -17,11 +17,11 @@ Python script data/explore_data.py provides an example of interfacing with the d
 
 - `dataset/SLDEA` - Main Dataset
 - Dataset Viewing
-To run the notebooks for examining the datasets, please follow the procedures listed below:
+- To run the notebooks for examining the datasets, please follow the procedures listed below:
 
-Download the dataset from the folder.
-Put the data into dataset/SLDEA and extract sample.zip.
-To view the data, one may use preprocessing.ipynb for viewing the examples.
+- Download the dataset from the folder.
+- Put the data into dataset/SLDEA and extract sample.zip.
+- To view the data, one may use preprocessing.ipynb for viewing the examples.
 
 ### Notebooks
 
