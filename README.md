@@ -15,7 +15,7 @@ Python script data/explore_data.py provides an example of interfacing with the d
 
 ### Dataset
 
-- `dataset/SLDEA` - Main Dataset: Access Via Link 
+- `dataset/SLDEA` - Sample Dataset: Full Access Via Link
 - Dataset Viewing
 - To run the notebooks for examining the datasets, please follow the procedures listed below:
 
