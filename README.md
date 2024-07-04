@@ -15,7 +15,7 @@ Python script data/explore_data.py provides an example of interfacing with the d
 
 ### Dataset
 
-- `dataset/SLDEA` - Sample Dataset: Full Access Via Link
+- `dataset/SLDEA` - Sample Dataset: Full Access Contact Via: rena.gao@unimelb.edu.au
 - Dataset Viewing
 - To run the notebooks for examining the datasets, please follow the procedures listed below:
 
